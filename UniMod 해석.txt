@@ -1,0 +1,12 @@
+[ UNIMOD 해석 ]
+
+Unimod는 질량 분석(M/S) 목적의 단백질 변형에 대한 공개 도메인 데이터베이스입니다.
+Unimod 데이터베이스의 데이터에는 모든 유형의 자연적 및 인위적 변형과 질량 변화, 중성 손실, MS/MS 분석에서
+발생하는 질량 차이 및 부위 특이성이 포함됩니다.
+
+https://www.unimod.org/modifications_view.php?editid1=4
+https://www.unimod.org/modifications_view.php?editid1=35
+
+UNIMOD_4  :  Composition  -  H(3) C(2) N O
+
+UNIMOD_35  :  Composition  -  O
