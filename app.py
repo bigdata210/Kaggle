@@ -74,7 +74,7 @@ def main():
         c1, c2, c3 = st.columns(3)
         with c1:
             st.info('**Data Analyst: [@hi-210](https://https://hi-210.tistory.com/)**', icon="💡")
-        with c2
+        with c2:
             st.info('**GitHub: [@bigdata210](https://https://github.com/bigdata210/Kaggle)**', icon="💻")
         with c3:
             st.info(
