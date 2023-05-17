@@ -8,6 +8,7 @@ from description import run_description
 from data import run_data
 from eda_app import run_eda
 from stat_app import run_status
+from stat_app import run_stat_box
 from ML import run_mls
 from ML import feautreImportancePlot
 from ML import run_model
@@ -72,9 +73,9 @@ def main():
         # Link
         c1, c2, c3 = st.columns(3)
         with c1:
-            st.info('**Data Analyst: [@Sung](https://muhanyuljung.tistory.com/)**', icon="💡")
+            st.info('**Data Analyst: [@hi-210](https://https://hi-210.tistory.com/)**', icon="💡")
         with c2:
-            st.info('**GitHub: [@MST](https://github.com/MoonStyIe/Parkinson)**', icon="💻")
+            st.info('**GitHub: [@bigdata210](https://https://github.com/bigdata210/Kaggle)**', icon="💻")
         with c3:
             st.info(
                 '**Data: [Kaggle](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)**',
